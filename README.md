@@ -1,5 +1,5 @@
 # Web-API---Quote-generator
-Web API - Quote generator with time ou timer and quickchart.io integration
+Web API - Quote generator with time out timer and quickchart.io integration
 
 
 ![alt text](https://github.com/ionutcosminmarcoci/Web-API---Quote-generator/blob/main/Picture1.png?raw=true)
